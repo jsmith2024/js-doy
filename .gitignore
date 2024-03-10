@@ -21,3 +21,9 @@ dist/
 # Ignore sensitive or private files
 secrets.json
 private.key
+
+*.npmrc
+
+*.sh
+
+pack/
